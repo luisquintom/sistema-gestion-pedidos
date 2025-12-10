@@ -1,0 +1,83 @@
+[
+    {
+        "id": 101,
+        "products": [
+            {
+                "id": 3,
+                "name": "teclado",
+                "price": 40.0,
+                "description": "HP"
+            },
+            {
+                "id": 4,
+                "name": "tablet",
+                "price": 899.0,
+                "description": "Apple Air Pad"
+            },
+            {
+                "id": 5,
+                "name": "tablet",
+                "price": 599.0,
+                "description": "Apple IPad A16"
+            },
+            {
+                "id": 6,
+                "name": "Audifonos",
+                "price": 99.0,
+                "description": "Apple"
+            }
+        ],
+        "total": 1637.0,
+        "status": "pending"
+    },
+    {
+        "id": 102,
+        "products": [
+            {
+                "id": 5,
+                "name": "tablet",
+                "price": 599.0,
+                "description": "Apple IPad A16"
+            },
+            {
+                "id": 6,
+                "name": "Audifonos",
+                "price": 99.0,
+                "description": "Apple"
+            }
+        ],
+        "total": 698.0,
+        "status": "pending"
+    },
+    {
+        "id": 103,
+        "products": [
+            {
+                "id": 1,
+                "name": "Laptop",
+                "price": 1999.0,
+                "description": "Asus Gaming A15"
+            },
+            {
+                "id": 2,
+                "name": "mouse",
+                "price": 50.0,
+                "description": "logitech"
+            },
+            {
+                "id": 4,
+                "name": "tablet",
+                "price": 899.0,
+                "description": "Apple Air Pad"
+            },
+            {
+                "id": 7,
+                "name": "Smart TV LG",
+                "price": 999.0,
+                "description": "TV OLED 77"
+            }
+        ],
+        "total": 3947.0,
+        "status": "pending"
+    }
+]
